@@ -1,0 +1,14 @@
+jobs:
+  pyinstaller-build:
+    runs-on: windows-latest
+    steps:
+      - name: Create Executable
+        uses: Martin005/pyinstaller-action@v1.2.0
+        with:
+          python_ver: '3.14'
+          spec: 'WPTE.spec'
+          requirements: 'requirements.txt'
+          upload_exe_with_name: 'WPTE'
+          options: --onefile, --name "Wii Party Text Editor", --windowed, 
+
+
