@@ -1,0 +1,5 @@
+[project]
+name = "PySide Widgets Project"
+
+[tool.pyside6-project]
+files = ["AboutDialog.py", "ColorButton.py", "GameView.py", "MessageEditor.py", "Settings.py", "aboutdialog.ui", "color_helper.py", "form.ui", "mainwindow.py", "previewsettings.ui", "tree_helper.py", "xmsg.py", "xmsg_resources.qrc"]

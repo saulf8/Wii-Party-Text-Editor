@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fonts/AOTFShinGoProRegular.otf</file>
+        <file>icons/Start⁄End/Clapping.PNG</file>
+        <file>icons/Start⁄End/Crying.PNG</file>
+        <file>icons/Start⁄End/Excited.PNG</file>
+        <file>icons/Start⁄End/Laughing.PNG</file>
+        <file>icons/Start⁄End/Startled.PNG</file>
+        <file>icons/Talking/Angry.PNG</file>
+        <file>icons/Talking/Happy.PNG</file>
+        <file>icons/Talking/Neutral.PNG</file>
+        <file>icons/Talking/Sad.PNG</file>
+        <file>icons/Talking/Surprised.PNG</file>
+        <file>icons/Talking/Threatening.PNG</file>
+        <file>icons/Icon.PNG</file>
+        <file>fonts/AOTFShinGoProMedium.otf</file>
+        <file>backgrounds/menu-pink.png</file>
+        <file>backgrounds/board-game-island.png</file>
+        <file>backgrounds/menu-blue.png</file>
+        <file>backgrounds/balance-boat.png</file>
+        <file>backgrounds/menu-yellow.png</file>
+        <file>icons/buttons/b1.png</file>
+        <file>icons/buttons/b2.png</file>
+        <file>icons/buttons/ba.png</file>
+        <file>icons/buttons/bb.png</file>
+        <file>icons/buttons/bx.png</file>
+        <file>icons/icon.ico</file>
+    </qresource>
+</RCC>
